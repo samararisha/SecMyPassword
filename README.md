@@ -15,6 +15,8 @@ To run SecMyPass, you need the following Python libraries:
 - `hashlib`: (Part of the standard library, no installation needed)
 - `requests`: For making HTTP requests to the "Have I Been Pwned?" API.
 - `colorama`: For color formatting in the terminal.
+# SecMyPass
+-You need to be connected to the internet so the API checking works 
 
 ### Installation
 You can install the required libraries using pip. Open your terminal and run the following commands:
