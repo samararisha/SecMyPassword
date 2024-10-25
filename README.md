@@ -20,7 +20,7 @@ To run SecMyPass, you need the following Python libraries:
 You can install the required libraries using pip. Open your terminal and run the following commands:
 
 ```bash
-pip install requests colorama
-## Examle
+git clone https://github.com/samararisha/SecMyPassword.git
+Command:
 python3 SecMyPass
 
