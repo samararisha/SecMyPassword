@@ -21,3 +21,6 @@ You can install the required libraries using pip. Open your terminal and run the
 
 ```bash
 pip install requests colorama
+## Examle
+python3 SecMyPass
+
