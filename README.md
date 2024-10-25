@@ -21,6 +21,6 @@ You can install the required libraries using pip. Open your terminal and run the
 
 ```bash
 git clone https://github.com/samararisha/SecMyPassword.git
-Command:
+#go the SecMyPass Directory and Run this command
 python3 SecMyPass
 
